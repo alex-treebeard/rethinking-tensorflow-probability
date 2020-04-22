@@ -5,7 +5,7 @@ chapters of [Statistical Rethinking 2nd Edition](https://xcelab.net/rm/statistic
 
 Note - These notebooks are based on the 8th December 2019 draft. I will update the notebooks once the book is released.
 
-## Misc Notes
+## Misc Notes 
 
 * **Why Tensorflow Probability ?** There are many great probabilitic frameworks (PPLs) out there. I especially like `Numpyro` & `PyMC3` (& `PyMC4`). There are 2 main reasons why I chose to do this exercise in tfp.
     * First and main reason is to not use the magic of the libraries. Sometimes higher level libraries hide the details which are necessary for one to truly understand the subject. As a matter of fact, working with TFP has resulted in me becoming more appreciable of these high level libraries as indeed they not only provide great helpers but make the code easy to read and reuse.
